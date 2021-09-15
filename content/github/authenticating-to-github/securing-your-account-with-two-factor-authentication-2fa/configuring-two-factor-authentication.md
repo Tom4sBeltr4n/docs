@@ -40,7 +40,7 @@ A time-based one-time password (TOTP) application automatically generates an aut
 
 {% endtip %}
 
-1. Download a TOTP app.
+1. Download a TOTP app. The next steps will be back on the GitHub website, and not on the TOTP app
 {% data reusables.user_settings.access_settings %}
 {% data reusables.user_settings.security %}
 {% data reusables.two_fa.enable-two-factor-authentication %}
